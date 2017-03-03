@@ -1,0 +1,19 @@
+{
+  "name": "simplewebserver",
+  "version": "1.0.0",
+  "description": "A simple NodeJS Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girox79/simpleWebServer.git"
+  },
+  "author": "Ac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/girox79/simpleWebServer/issues"
+  },
+  "homepage": "https://github.com/girox79/simpleWebServer#readme"
+}
